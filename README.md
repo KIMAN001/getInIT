@@ -8,3 +8,12 @@ https://code.visualstudio.com/
 3-Administración de tickets
 https://www.atlassian.com/de/software/jira
 
+
+Plantilla de 'un use case': 
+nombre_del_use_case:
+Dominio:
+Numero de ticket:
+Pasos a seguir para rep el bug:
+comportamiento esperado:
+comportamiento actual:
+tickets relacionados:
